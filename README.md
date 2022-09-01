@@ -7,3 +7,11 @@ Let's Include a list:
 -   Second
 
 -   Third
+
+## Happies
+- Seeing friends again
+- Being surrounded by people
+
+## Crappies
+- 8am classes make breakfast hard
+- Lack of sleep
