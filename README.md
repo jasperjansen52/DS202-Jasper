@@ -1,2 +1,9 @@
-# DS202-Jasper
-A repository for Data Science 202
+# ode to an academic advisor
+
+Let's Include a list:
+
+-   First
+
+-   Second
+
+-   Third
