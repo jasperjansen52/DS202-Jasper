@@ -11,6 +11,7 @@ Let's Include a list:
 ## Happies
 - Seeing friends again
 - Being surrounded by people
+- Seeing friends I haven't seen in months
 
 ## Crappies
 - 8am classes make breakfast hard
