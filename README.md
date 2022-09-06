@@ -16,3 +16,4 @@ Let's Include a list:
 ## Crappies
 - 8am classes make breakfast hard
 - Lack of sleep
+- early
